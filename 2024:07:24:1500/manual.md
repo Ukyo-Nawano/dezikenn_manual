@@ -35,6 +35,10 @@
 - タイムスタンプ: 00:52
 「設定シート」の52行目にある検索URL（`https://lookerstudio.google.com/u/0/reporting/`で始まるURL）をクリックして、業界比較ダッシュボードにアクセスします。このURLからダッシュボードにアクセスすることで、比較したい業界のデータを絞り込むことができます。
 
+
+<img width="1047" height="596" alt="image" src="https://github.com/user-attachments/assets/ddb97ef9-d781-4e41-a69a-ead2d7afa4ba" />
+
+
 ---
 
 ### 1-3. 比較したい業界の選択

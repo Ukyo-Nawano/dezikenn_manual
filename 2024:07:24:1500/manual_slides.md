@@ -41,7 +41,7 @@
 
 ---
 
-<img src="./images/00_52.jpg" alt="スクリーンショット" style="width: 300px; height: auto;" />
+<img src="./images/00_52.jpg" alt="スクリーンショット"/>
 
 ---
 
@@ -53,7 +53,7 @@
 
 ---
 
-<img src="./images/01_17.jpg" alt="スクリーンショット" style="width: 300px; height: auto;" />
+<img src="./images/01_17.jpg" alt="スクリーンショット"  />
 
 ---
 
@@ -71,7 +71,7 @@
 
 ---
 
-<img src="./images/01_40.jpg" alt="スクリーンショット" style="width: 300px; height: auto;" />
+<img src="./images/01_40.jpg" alt="スクリーンショット"  />
 
 ---
 
@@ -84,7 +84,7 @@
 
 ---
 
-<img src="./images/02_07.jpg" alt="スクリーンショット" style="width: 300px; height: auto;" />
+<img src="./images/02_07.jpg" alt="スクリーンショット" />
 
 ---
 
@@ -107,7 +107,7 @@
 
 ---
 
-<img src="./images/02_35.jpg" alt="スクリーンショット" style="width: 300px; height: auto;" />
+<img src="./images/02_35.jpg" alt="スクリーンショット" />
 
 ---
 
@@ -130,7 +130,7 @@
 
 ---
 
-<img src="./images/02_48.jpg" alt="スクリーンショット" style="width: 300px; height: auto;" />
+<img src="./images/02_48.jpg" alt="スクリーンショット"/>
 
 ---
 
@@ -152,7 +152,7 @@ Googleスプレッドシートの「設定シート」に戻り、「Step2. フ�
 
 ---
 
-<img src="./images/03_00.jpg" alt="スクリーンショット" style="width: 300px; height: auto;" />
+<img src="./images/03_00.jpg" alt="スクリーンショット" />
 
 ---
 
@@ -166,7 +166,7 @@ Googleスプレッドシートの「設定シート」に戻り、「Step2. フ�
 
 ---
 
-<img src="./images/03_21.jpg" alt="スクリーンショット" style="width: 300px; height: auto;" />
+<img src="./images/03_21.jpg" alt="スクリーンショット"  />
 
 ---
 
@@ -190,7 +190,7 @@ Googleスプレッドシートの「設定シート」に戻り、「Step2. フ�
 
 ---
 
-<img src="./images/03_45.jpg" alt="スクリーンショット" style="width: 300px; height: auto;" />
+<img src="./images/03_45.jpg" alt="スクリーンショット" />
 
 ---
 
@@ -213,7 +213,7 @@ Googleスプレッドシートの「設定シート」に戻り、「Step2. フ�
 
 ---
 
-<img src="./images/04_17.jpg" alt="スクリーンショット" style="width: 300px; height: auto;" />
+<img src="./images/04_17.jpg" alt="スクリーンショット" />
 
 ---
 
@@ -236,7 +236,7 @@ Googleスプレッドシートの「設定シート」に戻り、「Step2. フ�
 
 ---
 
-<img src="./images/04_37.jpg" alt="スクリーンショット" style="width: 300px; height: auto;" />
+<img src="./images/04_37.jpg" alt="スクリーンショット" />
 
 ---
 
@@ -257,7 +257,7 @@ Googleスプレッドシートの「設定シート」に戻り、「Step2. フ�
 
 ---
 
-<img src="./images/05_43.jpg" alt="スクリーンショット" style="width: 300px; height: auto;" />
+<img src="./images/05_43.jpg" alt="スクリーンショット"/>
 
 ---
 
@@ -269,7 +269,7 @@ Googleスプレッドシートの「設定シート」に戻り、「Step2. フ�
 
 ---
 
-<img src="./images/05_52.jpg" alt="スクリーンショット" style="width: 300px; height: auto;" />
+<img src="./images/05_52.jpg" alt="スクリーンショット" />
 
 ---
 
@@ -281,7 +281,7 @@ Googleスプレッドシートの「設定シート」に戻り、「Step2. フ�
 
 ---
 
-<img src="./images/06_12.jpg" alt="スクリーンショット" style="width: 300px; height: auto;" />
+<img src="./images/06_12.jpg" alt="スクリーンショット" />
 
 ---
 
@@ -297,7 +297,7 @@ Googleスプレッドシートの「設定シート」に戻り、「Step2. フ�
 
 ---
 
-<img src="./images/06_40.jpg" alt="スクリーンショット" style="width: 300px; height: auto;" />
+<img src="./images/06_40.jpg" alt="スクリーンショット"/>
 
 ---
 
@@ -314,7 +314,7 @@ Googleスプレッドシートの「設定シート」に戻り、「Step2. フ�
 
 ---
 
-<img src="./images/06_52.jpg" alt="スクリーンショット" style="width: 300px; height: auto;" />
+<img src="./images/06_52.jpg" alt="スクリーンショット" />
 
 ---
 
@@ -328,7 +328,7 @@ Googleスプレッドシートの「設定シート」に戻り、「Step2. フ�
 
 ---
 
-<img src="./images/07_05.jpg" alt="スクリーンショット" style="width: 300px; height: auto;" />
+<img src="./images/07_05.jpg" alt="スクリーンショット" />
 
 ---
 
@@ -340,7 +340,7 @@ Googleスプレッドシートの「設定シート」に戻り、「Step2. フ�
 
 ---
 
-<img src="./images/07_15.jpg" alt="スクリーンショット" style="width: 300px; height: auto;" />
+<img src="./images/07_15.jpg" alt="スクリーンショット" />
 
 ---
 
